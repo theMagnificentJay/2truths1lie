@@ -29,3 +29,9 @@ p {
 p {
   max-width: 500px;
 }
+
+.truthsOrLies {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
