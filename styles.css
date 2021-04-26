@@ -1,0 +1,31 @@
+h1 {
+  color: lightgreen;
+  text-align: center;
+}
+
+h3 {
+  color: blue;
+}
+
+p {
+  color: red;
+}
+
+.masterContainer {
+  border: thick solid black;
+  border-radius: 15px;
+  background-color: grey;
+}
+
+.insideDiv {
+  display: inline-block;
+  border: thick solid black;
+  border-radius: 15px;
+  text-align: center;
+  background-color: lightgray;
+  margin: 15px;
+}
+
+p {
+  max-width: 500px;
+}
